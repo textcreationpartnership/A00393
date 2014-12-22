@@ -36,11 +36,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-[A ryght excellent sermon and full of frute and edificacyon of the chylde Jesus.]Concio de puero Jes
+
 #####Body#####
 
+1. ¶ A sermon of the chylde Iesus made by Erasmus to be pronounced and preached of a chylde vnto chyldren.
+I A chylde goynge aboute to speake before chyldren of the ineffable chylde Iesus wyll not wyshe the 
+    _ ¶ The secounde part.
+
+    _ ¶ The thyrde parte.
+
+    _ ¶ The Epiloge.
+
 #####Back#####
-[A ryght excellent sermon and full of frute and edificacyon of the chylde Jesus.]Concio de puero Jes
+Imprynted at London in Fletestrete at the sygne of ye George by me Robert Redman.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
